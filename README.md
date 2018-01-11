@@ -1,4 +1,5 @@
-# Big-O
+# Big-O Notation
+
 ## Examples, Research and Resources. 
 
 ### Examples
@@ -10,8 +11,8 @@ Run the following from the command line...
 ### Resources
 |Resource|
 |:----|
-| [Big-O Cheatsheet][cheat] |
-| [Big-O in Plain English][plain_english] |
+| [Big-O Notation Cheatsheet][cheat] |
+| [Big-O Notation in Plain English][plain_english] |
 | [Big-O Notation in 5 Minutes][five_minutes] |
 | [Big-O Notation In-Depth][in_depth]|
 
