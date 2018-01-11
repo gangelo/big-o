@@ -7,7 +7,6 @@ require_relative 'helpers'
   some input variables.
 =end
 
-# http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/
 # http://bigocheatsheet.com/
 # https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation
 # https://www.youtube.com/watch?v=__vX2sjlpXU
